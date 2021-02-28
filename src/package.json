@@ -1,0 +1,13 @@
+{
+    "name": "app_hana_dal",
+    "version": "1.0.0",
+    "description": "Database Access Layer to SAP HANA",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@sap/hana-client": "^2.4.182",
+        "express": "^4.17.1"
+    }
+}
