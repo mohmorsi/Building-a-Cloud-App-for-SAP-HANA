@@ -17,7 +17,7 @@ SAP HANA is an in-memory database that is high perfomance and speeds up data dri
 ![app structure](./img/gcp_1.jpg)
 
 ## Usage
-Using Cloud Run, deploy a container that runs the Node.js application which utilizes SAP HANA client module and establishes a connection to the database. 
+Using Cloud Run, deploy a *container* that runs the Node.js application which utilizes SAP HANA client module and establishes a connection to the database. 
 
 ## Installation
 
